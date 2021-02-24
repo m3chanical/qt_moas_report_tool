@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file alias="animated_logo">pics/pirate-avatar_animated_x3.gif</file>
+        <file alias="logo">pics/pirate-avatar__x3.png</file>
+        <file alias="moas">pics/moas.png</file>
+        <file alias="small_animated_logo">pics/pirate-avatar_animated_x1.gif</file>
+    </qresource>
+</RCC>
